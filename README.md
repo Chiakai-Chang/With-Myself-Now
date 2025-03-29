@@ -112,10 +112,11 @@
 
 你可以自由地使用、改寫、重製、甚至商業使用，  
 **只要你標示出處與作者：**
-
+```
 - 作者：Chia-Kai Chang  
 - 來源：[https://github.com/Chiakai-Chang/With-Myself-Now](https://github.com/Chiakai-Chang/With-Myself-Now)  
 - 聯絡方式：lotifv@gmail.com
+```
 
 ---
 
