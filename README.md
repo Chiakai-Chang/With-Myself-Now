@@ -1,6 +1,8 @@
 # 與當下的自己同行  
 *A daily affirmation for presence, honesty, and gentle action.*
 
+[![Hits](https://hits.sh/github.com/Chiakai-Chang/With-Myself-Now.svg?label=%E7%80%8F%E8%A6%BD%E4%BA%BA%E6%AC%A1%2FHITS)](https://hits.sh/github.com/Chiakai-Chang/With-Myself-Now/)
+
 這是一段我每天朗讀給自己的文字。
 
 它不是為了讓我變得更好，而是提醒我：我已經很好了。  
